@@ -8,7 +8,9 @@ In the project directory, you can run special commands like this he he:
 
 
 To build frontend assets 
+### `npm install`
 ### `npm run build:css`
+
 To listen frontend assets
 ### `npm run watch:css`
 
